@@ -1,0 +1,90 @@
+#app {
+    text-align: center;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+.line {
+    height: 5px;
+    width: 75px;
+    margin: 8px auto;
+    background-color: black;
+}
+
+#apps{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#chatbot{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.menu{
+    position: fixed;
+    background:yellowgreen;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: fuchsia;
+    text-shadow: 4px 4px aqua;
+    
+}
+
+.links{
+    display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.links:hover{
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.contact_1 a{
+    color: aquamarine;
+    text-shadow: none;
+}
+
+.contact_1 h5{
+    display: inline;
+    font-size: 35px;
+    
+}
+
+#contact{
+    text-align: center;
+}
+
+#mycarousel{
+    background-color: turquoise;
+}
+
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+
+    
+
